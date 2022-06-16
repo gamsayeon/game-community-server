@@ -1,1 +1,1 @@
-# game-comunity-server
+# game-community-server
